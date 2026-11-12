@@ -29,7 +29,7 @@ const HomeHeader: React.FC<props> = ({ url, onPress }) => {
 
         }
         else {
-            setGreet('🌚 Good Night!')
+            setGreet('🌙 Good Night!')
             // setIconName('moon-sharp');
             // setIcontype('Ionicons')
         }
